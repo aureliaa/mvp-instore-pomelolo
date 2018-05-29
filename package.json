@@ -1,0 +1,12 @@
+{
+  "name": "mvp-instore-pomelolo",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5"
+  },
+  "devDependencies": {
+    "webpack": "^4.10.1",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "2.11.2"
+  }
+}
